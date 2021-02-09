@@ -38,7 +38,7 @@ import * as TonyNode from 'tony-node'
 
 ### `exec`
 
-`exec` takes a
+`exec` takes an absolute path to a JavaScript file and a list of arguments and runs the file using Node.js.
 
 ## Development
 
