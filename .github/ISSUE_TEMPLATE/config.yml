@@ -7,7 +7,7 @@ contact_links:
     url: "https://github.com/tony-lang/tony/discussions"
   -
     about: "Please raise issues about the compiler on its own repo."
-    name: CLI
+    name: Compiler
     url: "https://github.com/tony-lang/tony/issues/new"
   -
     about: "Please raise issues about the CLI on its own repo."
