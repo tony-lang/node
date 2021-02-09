@@ -19,11 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/tony-lang/tony.git"
+    "url": "ssh://git@github.com/tony-lang/node.git"
   },
-  "keywords": [
-    "language"
-  ],
+  "keywords": [],
   "author": "Jonas Hübotter",
   "license": "MIT",
   "bugs": {
