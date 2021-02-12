@@ -1823,8 +1823,8 @@ to-regex-range@^5.0.1:
 
 tony-lang@tony-lang/tony#master:
   version "0.2.0-alpha"
-  uid "5fdf6284942aff4043581afd558d16e4fe45c7cf"
-  resolved "https://codeload.github.com/tony-lang/tony/tar.gz/5fdf6284942aff4043581afd558d16e4fe45c7cf"
+  uid "47771950e58912dfa8836dd24fc1f9e30aef56ba"
+  resolved "https://codeload.github.com/tony-lang/tony/tar.gz/47771950e58912dfa8836dd24fc1f9e30aef56ba"
   dependencies:
     tree-sitter-tony "0.2.0-alpha.30"
 
